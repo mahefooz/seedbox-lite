@@ -314,7 +314,7 @@ const HomePage = () => {
         <div className="header-content">
           <div className="logo">
             <Leaf className="logo-icon" />
-            <h1>Seedbox Lite</h1>
+            <h1>PlayNOW</h1>
           </div>
           <div className="tagline">
             <p>Stream torrents instantly without uploading</p>
