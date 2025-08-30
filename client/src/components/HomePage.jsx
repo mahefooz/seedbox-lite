@@ -168,7 +168,7 @@ const HomePage = () => {
           <div className="brand">
             <Leaf size={48} className="brand-icon" />
             <div className="brand-text">
-              <h1>SeedBox Lite</h1>
+              <h1>PlayNOW</h1>
               <p>Stream torrents instantly • No seeding required</p>
             </div>
           </div>
