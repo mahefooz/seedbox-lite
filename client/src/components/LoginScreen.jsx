@@ -55,7 +55,7 @@ const LoginScreen = ({ onAuthSuccess }) => {
         <div className="login-container">
           <div className="login-header">
             <Shield size={48} className="login-icon" />
-            <h1>Seedbox Access</h1>
+            <h1>PlayNOW Access</h1>
             <p>Enter your password to access the torrent dashboard</p>
           </div>
 
