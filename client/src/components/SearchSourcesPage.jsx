@@ -365,7 +365,7 @@ const SearchSourcesPage = () => {
               />
               <div className="iframe-footer">
                 <p>
-                  <strong>Note:</strong> This is an external website. SeedBox Lite is not responsible for its content.
+                  <strong>Note:</strong> This is an external website. PlayNOW is not responsible for its content.
                 </p>
               </div>
             </div>
@@ -374,7 +374,7 @@ const SearchSourcesPage = () => {
               <div className="instructions-content">
                 <div className="instructions-icon">🔍</div>
                 <h2>Custom Torrent Search</h2>
-                <p>Add your preferred torrent search websites and access them directly within SeedBox Lite.</p>
+                <p>Add your preferred torrent search websites and access them directly within PlayNOW.</p>
                 
                 <div className="instruction-steps">
                   <div className="step">
@@ -397,7 +397,7 @@ const SearchSourcesPage = () => {
                     <div className="step-number">3</div>
                     <div className="step-content">
                       <h3>Find & Download</h3>
-                      <p>Search for content, copy magnet links, and paste them in the SeedBox Lite homepage.</p>
+                      <p>Search for content, copy magnet links, and paste them in the PlayNOW homepage.</p>
                     </div>
                   </div>
                 </div>
