@@ -85,7 +85,7 @@ const Layout = () => {
         </button>
         <div className="mobile-logo">
           <Leaf size={24} />
-          <span>SeedBox Lite</span>
+          <span>PlayNOW</span>
         </div>
       </div>
 
@@ -94,7 +94,7 @@ const Layout = () => {
         <div className="sidebar-header">
           <div className="logo">
             <Leaf size={sidebarCollapsed ? 28 : 32} />
-            {!sidebarCollapsed && <span>SeedBox Lite</span>}
+            {!sidebarCollapsed && <span>PlayNOW</span>}
           </div>
           {!sidebarCollapsed && (
             <button onClick={toggleSidebar} className="sidebar-toggle desktop-only">
@@ -156,7 +156,7 @@ const Layout = () => {
         {!sidebarCollapsed && (
           <div className="sidebar-footer">
             <div className="app-info">
-              <p>SeedBox Lite v1.0</p>
+              <p>PlayNOW v1.0</p>
               <p>Premium Streaming</p>
             </div>
           </div>
