@@ -159,7 +159,7 @@ const SettingsPage = () => {
           <Settings size={28} />
           Settings
         </h1>
-        <p>Configure your SeedBox Lite experience</p>
+        <p>Configure your PlayNOW experience</p>
       </div>
 
       {/* Application Statistics */}
@@ -362,7 +362,7 @@ const SettingsPage = () => {
         <h2>ℹ️ About</h2>
         <div className="about-info">
           <div className="app-info">
-            <h3>SeedBox Lite</h3>
+            <h3>PlayNOW</h3>
             <p>Version 1.0.0</p>
             <p>A lightweight torrent streaming client with video progress tracking and subtitle support.</p>
           </div>
